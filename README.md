@@ -35,8 +35,6 @@ After everything is installed, you will be directed into the terminal and it wil
 
 Here is my Proxmox GUI
 
-![Proxmox Server](proxmoxserver.PNG)
-
 However, I will still give a link to a video that gives the step by step installation. 
 
 [![Watch the video](https://img.youtube.com/vi/5j0Zb6x_hOk/hqdefault.jpg)](https://youtu.be/5j0Zb6x_hOk)
