@@ -34,7 +34,6 @@ During the installation process, you will have installation options such as Grap
 After everything is installed, you will be directed into the terminal and it will tell you to use your web browser to configure your server. So I really wish you were not installing Proxmox in your main computer.
 
 Here is my Proxmox GUI
-![Homelab Eddy](proxmoxserver.PNG)
 
 However, I will still give a link to a video that gives the step by step installation. 
 
