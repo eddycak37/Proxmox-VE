@@ -27,15 +27,18 @@ Now for the ISO, after you downloaded it, you have to create USB installation me
 
 Now that I had my USB bootable ready with ISO in it, it was time to plug it in my computer. But before I jump into the installation, I remember making one mistake when I first used Proxmox. I installed everything using a Wifi card. That's not a big problem, but it has several technical limitations such has latency spikes and reduced bandwith. There also might be some future problems. However, you still can do it with a Wifi card, but there's more configuration to be done and I wasn't experienced enough for it. Here is a link for installation if you wish to use a Wifi card in the wiki, [WLAN](https://pve.proxmox.com/wiki/WLAN). In my case, I just reinstalled Proxmox using an Ethernet connection, because I didn't want to be bothered with additional configurations and was aiming for a simple configuration.
 
-
-
 During the installation process, you will have installation options such as Graphical installation, Terminal UI an other options. I won't get into details about all of them, but the one I used was the Graphical Installation. Also, during the process, make sure to write down your login information and IP address of your server. You will need them to get into the graphical user interface (GUI). 
 
 After everything is installed, you will be directed into the terminal and it will tell you to use your web browser to configure your server. So I really wish you were not installing Proxmox in your main computer.
 
-Here is my Proxmox GUI
+Also, before I forget, here's a link to one of the best community scripts out there for Proxmox, the [Proxmox VE-Helper Scripts](https://community-scripts.github.io/ProxmoxVE/). It will help you save so much time in installing anything you wish for your Homelab. Pretty much copy and paste into your Proxmox Terminal. However, make sure to read the documentations and try to understand what the code does before pasting it and installing. 
+
+Here's my Proxmox GUI
+
 ![Homelab Eddy](proxmoxserver.PNG)
 
-However, I will still give a link to a video that gives the step by step installation. 
+Here's a link to the official Wiki page of [Proxmox VE](https://pve.proxmox.com/wiki/Main_Page)
+
+And a link to a video that gives the step by step installation. I do believe it is complete and very resourceful. But you can actually find tons of them online that gives different approaches and also new configurations depending on what you wish to use it for. 
 
 [![Watch the video](https://img.youtube.com/vi/5j0Zb6x_hOk/hqdefault.jpg)](https://youtu.be/5j0Zb6x_hOk)
