@@ -16,8 +16,6 @@ The computer used: *Lenovo ThinkPad T480*
 - CPU: i5 8350u
 - RAM: 16Gb DDR4-2400
 - Storage: 256 Gb SSD
-  - Additional storage
-     - Western Digital Black SN770 2TB in an external enclosure -> To use with my Nextcloud configuration
 
 ## Preparation
 There's nothing complicated in this part. Since you have to install a new OS in the computer, you have to make sure to keep all the files in a USB stick since everything will be deleted. In my case, I only had Kali Linux installed with no files or stuff that I wanted to keep. 
