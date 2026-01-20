@@ -46,7 +46,7 @@ After everything is installed, you will be directed into the terminal and it wil
 
 <h2 align="center">My Proxmox Server</h2>
 
-![Homelab Eddy](proxmoxserver.PNG)
+![Homelab Eddy](proxmoxserver.png)
 
 ## Conclusion 
 
