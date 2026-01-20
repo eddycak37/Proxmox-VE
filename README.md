@@ -10,6 +10,7 @@ For the installation and configuration, it was quite simple for me because I hav
 - Hardware
 - Preparation
 - Installation/Configuration
+- Conclusion
 
 ## Hardware
 The computer used: *Lenovo ThinkPad T480*
@@ -47,7 +48,9 @@ After everything is installed, you will be directed into the terminal and it wil
 
 ![Homelab Eddy](proxmoxserver.PNG)
 
-<h2 align="center"> Well, that's it for the installation and configuration of my Proxmox Server. I invite y'all to look at my other repositories for the projects that I worked on. Thank you!</h2>
+## Conclusion 
+
+Well, that's it for the installation and configuration of my Proxmox Server. I invite y'all to look at my other repositories for the projects that I worked on. Thank you!
 
 > [!TIP]
 > Here's a link to the official Wiki page of [Proxmox VE](https://pve.proxmox.com/wiki/Main_Page)
