@@ -36,6 +36,9 @@ Now that I had my USB bootable ready with ISO in it, it was time to plug it in m
 
 During the installation process, you will have multiple installation options such as Graphical installation, Terminal UI and others. I won't get into details about all of them, but the one I used was the Graphical Installation.
 
+> [!WARNING]
+> In the disk selection, go to *Options* and make sure to use **xfs** storage system file. Had some problem with the **EXT4** and proxmox installation software couldn't initialize my disk and create the partition.
+
 > [!TIP]
 > During the process, make sure to write down your login information and IP address of your server. You will need them to get into the graphical user interface (GUI). 
 
